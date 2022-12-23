@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       title: "Hello Friends",
       home: Scaffold(
         appBar: AppBar(
-          title: Text("Rohan Kumar"),
+          title: Text("Rohan Kumarr"),
         ),
         body: Center(
           child: Text(wordPair.asPascalCase),
